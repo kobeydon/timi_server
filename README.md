@@ -1,2 +1,2 @@
 # timi_server
-server for time manager system timi
+server for timecard manager system timi
